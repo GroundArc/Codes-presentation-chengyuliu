@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6deec4a5d0cdf749b8c24ea8f724fa1, type: 3}
+  m_Name: NPC_U1
+  m_EditorClassIdentifier: 
+  dialogueName: NPC_U1
+  characterName: A sad peron with an umberalla
+  sentences:
+  - 'Oh, hello. I''m just... dealing with some inner turmoil.
+
+'
+  - Please... don't keep your eyes on me
+  - Let me grieve alone
+  endAction: 2
+  endEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  options:
+  - {fileID: 11400000, guid: b4d13a35c27c99d46a46a4b0b7f6e05a, type: 2}
+  - {fileID: 11400000, guid: 8c0cfd4ca25e8d647812bd836a94978a, type: 2}
+  - {fileID: 11400000, guid: 9870f8aa5337a5842a2b9c4477a3cb76, type: 2}
+  - {fileID: 11400000, guid: 09c4e9262ed4c594a881d4cac53642a4, type: 2}

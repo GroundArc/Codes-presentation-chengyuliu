@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6deec4a5d0cdf749b8c24ea8f724fa1, type: 3}
+  m_Name: NPC_C1
+  m_EditorClassIdentifier: 
+  dialogueName: NPC_C1
+  characterName: Flower Fairy
+  sentences:
+  - "Oh, dear traveler, you\u2019ve come. I've been waiting, waiting for someone
+    who can bring back the innocence and joy of childhood."
+  - This amusement park was once filled with laughter and joy, those little hearts
+    found boundless happiness here. But now, the laughter is fading, and I can feel
+    the innocence slipping away.
+  - The flowers I guard, they know many secrets, and they understand many emotions.
+    But only a flower that symbolizes childhood innocence can reignite the joy in
+    this place.
+  - Can you find that flower? One that can make the children laugh and run carefree
+    again. That kind of smile... I have never forgotten.
+  endAction: 2
+  endEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  options:
+  - {fileID: 11400000, guid: 4fe343a98a6eb014b9bbcc4bf517f491, type: 2}
+  - {fileID: 11400000, guid: 8c0cfd4ca25e8d647812bd836a94978a, type: 2}

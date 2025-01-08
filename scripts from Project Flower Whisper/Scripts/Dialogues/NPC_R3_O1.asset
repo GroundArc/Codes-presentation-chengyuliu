@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d54a899b043ddc4f8a13385d1e24a9e, type: 3}
+  m_Name: NPC_R3_O1
+  m_EditorClassIdentifier: 
+  optionText: Who is Lily?
+  optionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  nextDialogue: {fileID: 11400000, guid: 41afeb42c94efd242a2865b3437e9ce0, type: 2}
+  exitDialogue: 1
+  isHiddenInitially: 0
+  showOptionsAfterSelection: 0

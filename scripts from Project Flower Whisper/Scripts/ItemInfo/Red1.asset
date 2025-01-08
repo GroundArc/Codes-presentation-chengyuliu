@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 685feccfccdf88a4c9016ec87afa4301, type: 3}
+  m_Name: Red1
+  m_EditorClassIdentifier: 
+  name: Red
+  icon: {fileID: 21300000, guid: bd3c9f8d67a909e4d9ba3730187c01d1, type: 3}
+  renderColor: {r: 1, g: 0, b: 0, a: 1}
+  isDefaultItem: 0
+  colorMaterial: {fileID: 2100000, guid: 27586249e61576c418f21afcd78e6680, type: 2}
+  pigmentPrefab: {fileID: 8874923141893164603, guid: eba752010b3cc204c82d971290668701, type: 3}
+  tubePrefab: {fileID: 4181950485621101712, guid: e992b00d7a9f86947878263774ce3b58, type: 3}

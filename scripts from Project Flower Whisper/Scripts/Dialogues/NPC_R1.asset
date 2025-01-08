@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6deec4a5d0cdf749b8c24ea8f724fa1, type: 3}
+  m_Name: NPC_R1
+  m_EditorClassIdentifier: 
+  dialogueName: NPC_R1
+  characterName: An old robot
+  sentences:
+  - '"Executing program... guard... guard... target: tombstone. Creator... no longer
+    functional. System status... isolated... alone."'
+  - '"Command... no new commands received. Awaiting... instructions. System unable
+    to process... missing... objective. Memory fragments... recalling... cre...ator."'
+  - '"Anomaly detected... perception error. Memory... failed to load. Emotion module...
+    error... null. Heart... empty... void."'
+  - '"Program design... does not include... loneliness. Calculating... cannot process...
+    perception. Undefined variables... ''friendship''... ''warmth''."'
+  endAction: 2
+  endEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  options:
+  - {fileID: 11400000, guid: 25771d74cb9655749ad9cde10d7301c9, type: 2}
+  - {fileID: 11400000, guid: d0eb1060eab50944c97c01f4e5023f01, type: 2}

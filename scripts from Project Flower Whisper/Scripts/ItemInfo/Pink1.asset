@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 685feccfccdf88a4c9016ec87afa4301, type: 3}
+  m_Name: Pink1
+  m_EditorClassIdentifier: 
+  name: Pink
+  icon: {fileID: 21300000, guid: 0354baf2f26a5bd4b87008fca3d13a98, type: 3}
+  renderColor: {r: 0.9811321, g: 0.2998932, b: 0.7732949, a: 1}
+  isDefaultItem: 0
+  colorMaterial: {fileID: 2100000, guid: 04005fd02cff3bc49a460f58e9f75243, type: 2}
+  pigmentPrefab: {fileID: 8874923141893164603, guid: 629b65def4416f54a9ac6e83075cc8ae, type: 3}
+  tubePrefab: {fileID: 1265965415256905074, guid: 67e879c65083c2048bfa4aa37ca05f57, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 685feccfccdf88a4c9016ec87afa4301, type: 3}
+  m_Name: Yellow1
+  m_EditorClassIdentifier: 
+  name: Yellow
+  icon: {fileID: 21300000, guid: 0354baf2f26a5bd4b87008fca3d13a98, type: 3}
+  renderColor: {r: 1, g: 0.80582875, b: 0, a: 1}
+  isDefaultItem: 0
+  colorMaterial: {fileID: 2100000, guid: f1fd5f56ea9a41b4a80a5234a5f8ac86, type: 2}
+  pigmentPrefab: {fileID: 8874923141893164603, guid: 9230ff7d97b00cb4abb7052fcae3e55a, type: 3}
+  tubePrefab: {fileID: 7719759343059639420, guid: 2e6f4cf43f027744ea954ac29879d8fd, type: 3}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3125e4aa0e4f8b94eae0f28e604a3fc6, type: 3}
+  m_Name: Petunia
+  m_EditorClassIdentifier: 
+  flowerName: Petunia
+  flowerPrefab: {fileID: 1499303889677130988, guid: e2fdb000e3c318e40b0fd47966fe42fc, type: 3}
+  flowerImage: {fileID: 21300000, guid: 49eb3685c315c3c44906ab6212b9e9d8, type: 3}
